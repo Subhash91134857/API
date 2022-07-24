@@ -1,4 +1,4 @@
 # API
 
-This is a simple RESRAPI.
+This is a simple RESTAPI.
 It can perform all the operations.
